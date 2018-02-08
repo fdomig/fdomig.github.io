@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Övp on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/%C3%B6vp/</link>
+    <description>Recent content in Övp on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 20 Apr 2011 14:20:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/%C3%B6vp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pressespiegel Österreich – Finde den Fehler</title>
+      <link>https://blog.seric.at/2011/04/20/pressespiegel-osterreich-finde-den-fehler/</link>
+      <pubDate>Wed, 20 Apr 2011 14:20:15 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2011/04/20/pressespiegel-osterreich-finde-den-fehler/</guid>
+      <description>Der heutige Pressespiegel Online aus Österreich. Finde den Fehler.
+
+Bilder Copyright:
+www.kurier.at, www.derstandard.at, www.orf.at, www.heute.at, www.oe24.at, www.diepresse.com, www.krone.at</description>
+    </item>
+    
+  </channel>
+</rss>

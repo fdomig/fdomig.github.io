@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/update/</link>
+    <description>Recent content in Update on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 21 Mar 2008 18:23:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubuntu 8.04 Hardy Heron</title>
+      <link>https://blog.seric.at/2008/03/21/ubuntu-804-hardy-heron/</link>
+      <pubDate>Fri, 21 Mar 2008 18:23:09 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2008/03/21/ubuntu-804-hardy-heron/</guid>
+      <description>Ich habe soeben meinen Desktop-Rechner, den ich eigentlich nicht allzu oft benutze dazu verwendet um von Ubuntu 7.10 Gutsy Gibbon auf Ubuntu 8.04 Hardy Heron (Beta) upzudaten und hatte mich eigentlich schon auf einige Probleme gefasst gemacht. Es kam allerdings ganz anders, ich schubste mittels
+sudo update-manager -d
+den Update-Manager an um die neue Distribution 8.04 zu finden. Alles wunderbar, 1027 Pakete mussten heruntergeladen werden &amp;#8211; und das war auch schon der einzige nervige Teil, denn die Server scheinen momentan etwas Überlastet zu sein.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qualität on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/qualit%C3%A4t/</link>
+    <description>Recent content in Qualität on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 06 Feb 2008 09:24:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/qualit%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back again</title>
+      <link>https://blog.seric.at/2008/02/06/back-again/</link>
+      <pubDate>Wed, 06 Feb 2008 09:24:40 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2008/02/06/back-again/</guid>
+      <description>Ich bin wieder hier. Auf neuer Domain aber trotzdem in gewohnter alter Qualität.
+Da sich mein Ex-Provider nicht um Kunden kümmern wollte, habe ich kurzum zu Hetzner gewechselt und bin da nun auch zufriedener Domain-Kunde.</description>
+    </item>
+    
+  </channel>
+</rss>

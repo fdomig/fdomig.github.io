@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unicode on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/unicode/</link>
+    <description>Recent content in Unicode on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 11 Aug 2009 17:27:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/unicode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unicode print fail</title>
+      <link>https://blog.seric.at/2009/08/11/unicode-print-fail/</link>
+      <pubDate>Tue, 11 Aug 2009 17:27:49 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2009/08/11/unicode-print-fail/</guid>
+      <description>No comment &amp;#8230;</description>
+    </item>
+    
+  </channel>
+</rss>

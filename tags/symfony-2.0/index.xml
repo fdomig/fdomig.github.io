@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Symfony 2.0 on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/symfony-2.0/</link>
+    <description>Recent content in Symfony 2.0 on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 26 Feb 2010 10:51:57 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/symfony-2.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Symfony 2.0 Preview</title>
+      <link>https://blog.seric.at/2010/02/26/symfony-2-0-preview/</link>
+      <pubDate>Fri, 26 Feb 2010 10:51:57 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2010/02/26/symfony-2-0-preview/</guid>
+      <description>Here we go. Fabien Potencier last week released the preview website for symfony 2.0 (symfony reloaded). Me, as a long time PHP and symfony user this preview shows a lot of new interesting stuff comming to web development with symfony. A Quick-Tour of Fabiens newest baby is also available and points out major changes to the framework. First thing to notice is the completly changed directory structure. Another major step is the use of &amp;gt;= PHP 5.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/blog/</link>
+    <description>Recent content in Blog on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 10 Jan 2012 22:01:26 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogging from iPad</title>
+      <link>https://blog.seric.at/2012/01/10/blogging-from-ipad/</link>
+      <pubDate>Tue, 10 Jan 2012 22:01:26 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2012/01/10/blogging-from-ipad/</guid>
+      <description>Since I recently got an iPad2 from my employer, I am able to update my blog from everywhere thanks to pretty decent 3g coverage in Austria. However, what you want to use if you start blogging from your iPad with your WordPress blog, is the native WordPress App which is available for free in the Appstore.
+I will hopefully start to blog more often with this new opportunity. Let&amp;#8217;s give its a try.</description>
+    </item>
+    
+    <item>
+      <title>Mit mir nicht</title>
+      <link>https://blog.seric.at/2009/07/22/mit-mir-nicht/</link>
+      <pubDate>Wed, 22 Jul 2009 22:06:40 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2009/07/22/mit-mir-nicht/</guid>
+      <description>Sehr geehrten Leserinnen und Leser,
+ich werde nicht für Vodafone bloggen so wie das scheinbar ein paar halbwegs bekannte Blogger (z.B.: Die Frau Schnutinger hier) meinen. Blogger können ruhig Werbung machen, aber so tun als ob es wirklich toll wäre nur weil sie dafür Geld bekommen ist nicht richtig.
+Ich werbe hier gleich rechts auch, was dort angezeigt wird ist mir egal &amp;#8211; es wird schon zum Content/Nutzer passen. Wenn nicht ist mir das auch egal.</description>
+    </item>
+    
+    <item>
+      <title>Fotoblog gestartet</title>
+      <link>https://blog.seric.at/2008/12/22/fotoblog-gestartet/</link>
+      <pubDate>Mon, 22 Dec 2008 22:30:16 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2008/12/22/fotoblog-gestartet/</guid>
+      <description>Ich habe vor einigen Wochen eine DSLR gekauft (Canon EOS 450D) und mich mit zwei zusätzlichen Objektiven ausgestattet. Meine Impressionen und Schnappschüsse hatte ich ursprünglich vor via Flickr bereitszustellen, habe mich nun aber dazu entschlossen etwas eigenes zu erstellen. Unter http://photos.seric.at/ ist nun mein Fotoblog erreichbar in welchem ich einige meiner Fotos posten werde. Ich hoffe dort auf zahlreiche Kommentare sowie Kritik und Lob.</description>
+    </item>
+    
+    <item>
+      <title>#php.de@IRCnet</title>
+      <link>https://blog.seric.at/2008/03/01/phpdeircnet/</link>
+      <pubDate>Sat, 01 Mar 2008 13:22:37 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2008/03/01/phpdeircnet/</guid>
+      <description>Weil ich mich nie an die Blogs der unterschiedlichen Leute im IRCnet Channel #php.de erinnern kann, habe ich angefangen eine Liste mit eben den Blogs dieser anzulegen. Es gibt für jeden #php.de User die Möglichkeit sich selbst einzutragen, ich muss dann den entsprechenden Link lediglich noch freischalten.
+Für alle Interessierten: #php.de@IRCnet Blogs</description>
+    </item>
+    
+    <item>
+      <title>Anti Spam Word</title>
+      <link>https://blog.seric.at/2008/02/17/anti-spam-word/</link>
+      <pubDate>Sun, 17 Feb 2008 11:34:40 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2008/02/17/anti-spam-word/</guid>
+      <description>Da möchte ich doch tatsächlich mal einen Kommentar bei meinem Freund Jan in seinem Blog hinterlassen, da stoße ich auf das Anti-Spam-Wort Plugin, welches Spam freie Kommentare bieten soll. Als ich das Wort dann jedoch begutachte fällt mir spontan nur ein, dass der &amp;#8220;Spam&amp;#8221; bereits sein Plugin untergraben hat, denn ich sehe folgendes Anti-Spam-Wort:</description>
+    </item>
+    
+  </channel>
+</rss>

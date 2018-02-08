@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sibelius on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/sibelius/</link>
+    <description>Recent content in Sibelius on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 14 Sep 2012 14:04:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/sibelius/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Virtual Conducting with the Microsoft Kinect</title>
+      <link>https://blog.seric.at/2012/09/14/virtual-conducting-with-the-microsoft-kinect/</link>
+      <pubDate>Fri, 14 Sep 2012 14:04:31 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2012/09/14/virtual-conducting-with-the-microsoft-kinect/</guid>
+      <description>Abstract Mouse and keyboard are being used as general purpose device despite the fact that for e.g., gaming or 3D modeling different input options are considered better. Therefore an alternative approach of human computer interaction is described and analyzed with the help of the Microsoft Kinects natural user interface tools. As an example of a gesture based application, a conducting software is developed. This implementation is analyzed from a practical perspective to show real world usage.</description>
+    </item>
+    
+  </channel>
+</rss>

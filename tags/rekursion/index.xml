@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rekursion on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/rekursion/</link>
+    <description>Recent content in Rekursion on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 08 Feb 2008 11:19:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/rekursion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die Türme von Hanoi in C</title>
+      <link>https://blog.seric.at/2008/02/08/die-turme-von-hanoi-in-c/</link>
+      <pubDate>Fri, 08 Feb 2008 11:19:46 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2008/02/08/die-turme-von-hanoi-in-c/</guid>
+      <description>Ein beliebtes Beispiel für rekursives Programmieren ist das 1883 vom Mathematiker Eduard Lucas erfundene (Mathematik-)Denkspiel &amp;#8220;Die Türme von Hanoi&amp;#8220;.
+Das Spiel besteht darin, einen Stapel A von verschieden großen Scheiben, welche der Größe nach sortiert sind, auf einen Stapel C mithilfe eines &amp;#8220;Zwischenlager&amp;#8221;-Stapel B zu bewegen ohne dabei eine größere Scheibe auf eine kleinere Scheibe zu legen. Am Ende muss auf dem Stapel C die selbe geordnete Reihenfolge vorliegen, wie auf dem Ursprungs-Stapel A.</description>
+    </item>
+    
+  </channel>
+</rss>

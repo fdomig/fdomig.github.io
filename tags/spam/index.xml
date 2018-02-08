@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spam on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/spam/</link>
+    <description>Recent content in Spam on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 17 Feb 2008 11:34:40 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/spam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anti Spam Word</title>
+      <link>https://blog.seric.at/2008/02/17/anti-spam-word/</link>
+      <pubDate>Sun, 17 Feb 2008 11:34:40 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2008/02/17/anti-spam-word/</guid>
+      <description>Da möchte ich doch tatsächlich mal einen Kommentar bei meinem Freund Jan in seinem Blog hinterlassen, da stoße ich auf das Anti-Spam-Wort Plugin, welches Spam freie Kommentare bieten soll. Als ich das Wort dann jedoch begutachte fällt mir spontan nur ein, dass der &amp;#8220;Spam&amp;#8221; bereits sein Plugin untergraben hat, denn ich sehe folgendes Anti-Spam-Wort:</description>
+    </item>
+    
+  </channel>
+</rss>

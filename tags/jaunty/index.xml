@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaunty on Franziskus Domig</title>
+    <link>https://blog.seric.at/tags/jaunty/</link>
+    <description>Recent content in Jaunty on Franziskus Domig</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 29 Mar 2009 17:01:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.seric.at/tags/jaunty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It’s time for Ubuntu 9.04 Jaunty Jackalope</title>
+      <link>https://blog.seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</link>
+      <pubDate>Sun, 29 Mar 2009 17:01:20 +0000</pubDate>
+      
+      <guid>https://blog.seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</guid>
+      <description>Wer sich dafür interessiert, hat es wahrscheinlich bereits gelesen. Die Beta der kommenden Version von Ubuntu 9.04 Jaunty Jackalope ist vergangene Woche erschienen. Ich selbst verwende seit Alpha3 Jaunty produktiv(!) und bin positiv überrascht. Jaunty wirkt frischer und vor allem läuft es spürbar schneller. Viele Bugs wurden ausgebessert, viele Features eingepflegt. So kommt Ubuntu 9.04 mit dem aktuellen Gnome 2.26.0, Openoffice.org 3.0.1 (3.1.x wir wohl erst mit der nächsten Version kommen).</description>
+    </item>
+    
+  </channel>
+</rss>
