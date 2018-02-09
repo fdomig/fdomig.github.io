@@ -896,5 +896,17 @@ Da sich mein Ex-Provider nicht um Kunden kümmern wollte, habe ich kurzum zu Het
 Purpose and Orientation of this Website This blog is non-commercial and solely reflects my personal opinion and not necessarily of my employer. I reserve the right to censor or delete comments whenever I want. If you don’t like that policy feel free to comment elsewhere.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://seric.at/.well-known/keybase.txt</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://seric.at/.well-known/keybase.txt</guid>
+      <description>==================================================================
+https://keybase.io/fdomig I hereby claim:
+ I am an admin of https://seric.at I am fdomig (https://keybase.io/fdomig) on keybase. I have a public key ASDG9vfdy_Yv-uBcSLBqfNchV4Yad1BtATVJqz3ceoQw5Qo  To do so, I am signing this object:
+{ &amp;ldquo;body&amp;rdquo;: { &amp;ldquo;key&amp;rdquo;: { &amp;ldquo;eldest_kid&amp;rdquo;: &amp;ldquo;010191e221239d5aeaed6ea065c60a5cd1a484481b49d860877c0caa7ea3ab6303b30a&amp;rdquo;, &amp;ldquo;host&amp;rdquo;: &amp;ldquo;keybase.io&amp;rdquo;, &amp;ldquo;kid&amp;rdquo;: &amp;ldquo;0120c6f6f7ddcbf62ffae05c48b06a7cd72157861a77506d013549ab3ddc7a8430e50a&amp;rdquo;, &amp;ldquo;uid&amp;rdquo;: &amp;ldquo;18b03088ab7601d2e6a6b551a067a219&amp;rdquo;, &amp;ldquo;username&amp;rdquo;: &amp;ldquo;fdomig&amp;rdquo; }, &amp;ldquo;service&amp;rdquo;: { &amp;ldquo;hostname&amp;rdquo;: &amp;ldquo;seric.at&amp;rdquo;, &amp;ldquo;protocol&amp;rdquo;: &amp;ldquo;https:&amp;rdquo; }, &amp;ldquo;type&amp;rdquo;: &amp;ldquo;web_service_binding&amp;rdquo;, &amp;ldquo;version&amp;rdquo;: 1 }, &amp;ldquo;client&amp;rdquo;: { &amp;ldquo;name&amp;rdquo;: &amp;ldquo;keybase.io go client&amp;rdquo;, &amp;ldquo;version&amp;rdquo;: &amp;ldquo;1.0.16&amp;rdquo; }, &amp;ldquo;ctime&amp;rdquo;: 1467269225, &amp;ldquo;expire_in&amp;rdquo;: 504576000, &amp;ldquo;merkle_root&amp;rdquo;: { &amp;ldquo;ctime&amp;rdquo;: 1467269058, &amp;ldquo;hash&amp;rdquo;: &amp;ldquo;0a642795ea2f8fd33171732042700421f0b276c1b18436e68e10fbc8b468292f56ca3067dff56842a0834b8c752f891646915dd54f41052b17db4e2067d9937f&amp;rdquo;, &amp;ldquo;seqno&amp;rdquo;: 504153 }, &amp;ldquo;prev&amp;rdquo;: &amp;ldquo;cc9d4d3761d9f60f27720f555e7ebe56c687b3cec645e75e1a81dc3fdfd9c5a4&amp;rdquo;, &amp;ldquo;seqno&amp;rdquo;: 8, &amp;ldquo;tag&amp;rdquo;: &amp;ldquo;signature&amp;rdquo; }</description>
+    </item>
+    
   </channel>
 </rss>
