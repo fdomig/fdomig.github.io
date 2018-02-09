@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer on Franziskus Domig</title>
-    <link>https://seric.at/tags/computer/</link>
+    <link>http://seric.at/tags/computer/</link>
     <description>Recent content in Computer on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 29 Mar 2011 21:42:07 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/computer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My computers</title>
-      <link>https://seric.at/2011/03/29/my-computers/</link>
+      <link>http://seric.at/2011/03/29/my-computers/</link>
       <pubDate>Tue, 29 Mar 2011 21:42:07 +0000</pubDate>
       
-      <guid>https://seric.at/2011/03/29/my-computers/</guid>
+      <guid>http://seric.at/2011/03/29/my-computers/</guid>
       <description>So there are a couple of computers idling around here. I all of them gave names of planets and have come to the point where I have to use names of stars because I ran out of planets. Here I have a list of all the devices that I am using on a more or less regular basis. I left out smartphones, server in data centers or not anymore working computers at home.</description>
     </item>
     

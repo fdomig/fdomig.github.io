@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Liste on Franziskus Domig</title>
-    <link>https://seric.at/tags/liste/</link>
+    <link>http://seric.at/tags/liste/</link>
     <description>Recent content in Liste on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 12 Mar 2008 22:59:00 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/liste/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/liste/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sortieren einer Liste mit C&#43;&#43;</title>
-      <link>https://seric.at/2008/03/12/sortieren-einer-liste-mit-cpp/</link>
+      <link>http://seric.at/2008/03/12/sortieren-einer-liste-mit-cpp/</link>
       <pubDate>Wed, 12 Mar 2008 22:59:00 +0000</pubDate>
       
-      <guid>https://seric.at/2008/03/12/sortieren-einer-liste-mit-cpp/</guid>
+      <guid>http://seric.at/2008/03/12/sortieren-einer-liste-mit-cpp/</guid>
       <description>&lt;p&gt;Um eine (einfach) verkettete Liste mit C++ zu Sortieren gibt es unterschiedliche Ansätze. Ich habe die letzte Woche in einer Aufgabe im Rahmen meiner Algorithmik Vorlesung folgende Sortierungsfunktion implementiert, welche das Prinzip von &lt;a href=&#34;http://de.wikipedia.org/wiki/Bubblesort&#34; title=&#34;Bubblesort - Wikipedia&#34;&gt;Bubblesort&lt;/a&gt; verwendet. &lt;strong&gt;Achtung&lt;/strong&gt;: Bubblesort ist ein Algorithmus, den man nicht in einer Anwendung verwenden solle. Bubblesort gehört mit  &lt;img src=&#34;//s0.wp.com/latex.php?latex=O%28n%5E%7B2%7D%29+&amp;#038;bg=ffffff&amp;#038;fg=000&amp;#038;s=0&#34; alt=&#34;O(n^{2}) &#34; title=&#34;O(n^{2}) &#34; class=&#34;latex&#34; /&gt;eine sehr schlechte &lt;a href=&#34;http://de.wikipedia.org/wiki/Laufzeit_(Informatik)&#34;&gt;Laufzeit&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

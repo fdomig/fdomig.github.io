@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eee Pc on Franziskus Domig</title>
-    <link>https://seric.at/tags/eee-pc/</link>
+    <link>http://seric.at/tags/eee-pc/</link>
     <description>Recent content in Eee Pc on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 08 May 2008 19:53:22 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/eee-pc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/eee-pc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Asus EEE 900 Windows XP statt Linux?</title>
-      <link>https://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</link>
+      <link>http://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</link>
       <pubDate>Thu, 08 May 2008 19:53:22 +0000</pubDate>
       
-      <guid>https://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</guid>
+      <guid>http://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</guid>
       <description>Ich musste etwas schlucken, als ich folgende Meldung auf Slashdot gelesen habe:
  It sounds crazy to say this, but the XP-based version of the Eee PC 900 (the new version with the 8.9&amp;#8243; screen) will actually be considerably cheaper than the Linux-based version. At the official launch today, the company told journalists that &amp;#8216;Microsoft has been a longstanding supporter of Asus&amp;#8217; to explain the price discrepancy. And — get this — only the XP-based machine will be sold at mass-market retailers, while the Linux-based model will be consigned to computer stores.</description>
     </item>

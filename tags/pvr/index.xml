@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pvr on Franziskus Domig</title>
-    <link>https://seric.at/tags/pvr/</link>
+    <link>http://seric.at/tags/pvr/</link>
     <description>Recent content in Pvr on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 09 Jul 2008 21:04:04 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/pvr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/pvr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MythTV fehlt</title>
-      <link>https://seric.at/2008/07/09/mythtv-fehlt/</link>
+      <link>http://seric.at/2008/07/09/mythtv-fehlt/</link>
       <pubDate>Wed, 09 Jul 2008 21:04:04 +0000</pubDate>
       
-      <guid>https://seric.at/2008/07/09/mythtv-fehlt/</guid>
+      <guid>http://seric.at/2008/07/09/mythtv-fehlt/</guid>
       <description>Wenn man nicht zu Hause ist und wieder auf einen konventionellen Fernseher angewiesen ist, dann fällt einem schnell wieder ein, dass es ja Wartezeiten auf bestimmte Filme, Serien oder Sonstiges gibt und &amp;#8211; viel schlimmer &amp;#8211; dass es Werbung gibt!
 Zuhause verwende ich einen alten Rechner (P4 2GHz, 512MB RAM, 750GB HDD) mit einem DVB-T Stick und einer minimalen Ubuntu Installation mit dem MythTV-Backend und -Frontend Paketen (gibt es auch gleich kombiniert als Mythbuntu).</description>
     </item>

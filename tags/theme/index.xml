@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme on Franziskus Domig</title>
-    <link>https://seric.at/tags/theme/</link>
+    <link>http://seric.at/tags/theme/</link>
     <description>Recent content in Theme on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 01 Dec 2008 22:12:21 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/theme/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dunkles Theme für Ubuntu</title>
-      <link>https://seric.at/2008/12/01/dunkles-theme-fur-ubuntu/</link>
+      <link>http://seric.at/2008/12/01/dunkles-theme-fur-ubuntu/</link>
       <pubDate>Mon, 01 Dec 2008 22:12:21 +0000</pubDate>
       
-      <guid>https://seric.at/2008/12/01/dunkles-theme-fur-ubuntu/</guid>
+      <guid>http://seric.at/2008/12/01/dunkles-theme-fur-ubuntu/</guid>
       <description>[][1]Ubuntu Dust Theme Auch wenn es viele nicht glauben und meinen damit nicht arbeiten zu können. Ich finde es wirklich hübsch und habe mich schnell an ein dunkles Theme für Ubuntu 8.10 (Dust) gewöhnt. Auch passt ein etwas adaptierter Avant Window Navigator hervorragend dazu.
 Firefox Theme sowie Desktop Hintergrund sollte man ebenfalls bei oben genannten Link finden. Einfach mal ausprobieren.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authorship on Franziskus Domig</title>
-    <link>https://seric.at/tags/authorship/</link>
+    <link>http://seric.at/tags/authorship/</link>
     <description>Recent content in Authorship on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 06 Jul 2011 22:32:03 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/authorship/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/authorship/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Authorship on blog posts</title>
-      <link>https://seric.at/2011/07/06/authorship-on-blog-posts/</link>
+      <link>http://seric.at/2011/07/06/authorship-on-blog-posts/</link>
       <pubDate>Wed, 06 Jul 2011 22:32:03 +0000</pubDate>
       
-      <guid>https://seric.at/2011/07/06/authorship-on-blog-posts/</guid>
+      <guid>http://seric.at/2011/07/06/authorship-on-blog-posts/</guid>
       <description>Google released Google+. But what they are doing is actually fight back Content-Farms with stupid &amp;#8220;content&amp;#8221; and Facebooks Social-Graph.
 Their first step was change the algorithms to calculate the search results different. Do not trust websites which just give you lots of buzz- and keywords. Remove content in search results which was optimized by companies (SEO) to generate a lot of traffic. That is neither what the web is in need of nor what a typical user wants to read.</description>
     </item>

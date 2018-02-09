@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intrepid Ibex on Franziskus Domig</title>
-    <link>https://seric.at/tags/intrepid-ibex/</link>
+    <link>http://seric.at/tags/intrepid-ibex/</link>
     <description>Recent content in Intrepid Ibex on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 31 Oct 2008 18:51:57 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/intrepid-ibex/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/intrepid-ibex/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu 8.10 – Intrepid Ibex</title>
-      <link>https://seric.at/2008/10/31/ubuntu-810-intrepid-ibex/</link>
+      <link>http://seric.at/2008/10/31/ubuntu-810-intrepid-ibex/</link>
       <pubDate>Fri, 31 Oct 2008 18:51:57 +0000</pubDate>
       
-      <guid>https://seric.at/2008/10/31/ubuntu-810-intrepid-ibex/</guid>
+      <guid>http://seric.at/2008/10/31/ubuntu-810-intrepid-ibex/</guid>
       <description>Da ich schon lange nichts mehr geschrieben habe, gibts einfach mal ein Status Update: Das Upgrade von Ubuntu 8.04 zu 8.10 verlief (erwartungsgemäß) problemlos und es gibt eigentlich nicht mehr zum ergänzen. Es läuft einfach hervorragend und macht Spaß.</description>
     </item>
     

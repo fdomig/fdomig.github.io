@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bluescreen on Franziskus Domig</title>
-    <link>https://seric.at/tags/bluescreen/</link>
+    <link>http://seric.at/tags/bluescreen/</link>
     <description>Recent content in Bluescreen on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 23 Jul 2009 10:49:15 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/bluescreen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/bluescreen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Windows 7 Bluescreen</title>
-      <link>https://seric.at/2009/07/23/first-windows-7-bluescreen/</link>
+      <link>http://seric.at/2009/07/23/first-windows-7-bluescreen/</link>
       <pubDate>Thu, 23 Jul 2009 10:49:15 +0000</pubDate>
       
-      <guid>https://seric.at/2009/07/23/first-windows-7-bluescreen/</guid>
+      <guid>http://seric.at/2009/07/23/first-windows-7-bluescreen/</guid>
       <description>Yes I was interested in the new Windows 7. I yesterday downloaded the Windows 7 Release Candiate, which should be stable enough to try on my Macbook Pro. Economically as I am, I did not want to waste a blank DVD and that was the reason I choose Parallels to install Windows as a virtual machine.
 First time: Failure during boot, no reaction of the windows system.
 Second time: Better try, windows crashed after the copy of all Windows specific data with the typically bluescreen (which has not changed since Windows 95).</description>
@@ -24,10 +24,10 @@ Second time: Better try, windows crashed after the copy of all Windows specific 
     
     <item>
       <title>Graz bei Nacht</title>
-      <link>https://seric.at/2008/09/18/graz-bei-nacht/</link>
+      <link>http://seric.at/2008/09/18/graz-bei-nacht/</link>
       <pubDate>Thu, 18 Sep 2008 12:46:14 +0000</pubDate>
       
-      <guid>https://seric.at/2008/09/18/graz-bei-nacht/</guid>
+      <guid>http://seric.at/2008/09/18/graz-bei-nacht/</guid>
       <description>Ich war vergangene Woche ein paar Tage in Graz und möchte folgenden Schnappschuss euch nicht vorenthalten.</description>
     </item>
     

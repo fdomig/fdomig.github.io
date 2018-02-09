@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on Franziskus Domig</title>
-    <link>https://seric.at/tags/windows/</link>
+    <link>http://seric.at/tags/windows/</link>
     <description>Recent content in Windows on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 18 Sep 2008 12:46:14 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Graz bei Nacht</title>
-      <link>https://seric.at/2008/09/18/graz-bei-nacht/</link>
+      <link>http://seric.at/2008/09/18/graz-bei-nacht/</link>
       <pubDate>Thu, 18 Sep 2008 12:46:14 +0000</pubDate>
       
-      <guid>https://seric.at/2008/09/18/graz-bei-nacht/</guid>
+      <guid>http://seric.at/2008/09/18/graz-bei-nacht/</guid>
       <description>Ich war vergangene Woche ein paar Tage in Graz und möchte folgenden Schnappschuss euch nicht vorenthalten.</description>
     </item>
     
     <item>
       <title>EEE900 und der deutsche Markt</title>
-      <link>https://seric.at/2008/06/29/eee900-und-der-deutsche-markt/</link>
+      <link>http://seric.at/2008/06/29/eee900-und-der-deutsche-markt/</link>
       <pubDate>Sun, 29 Jun 2008 10:53:21 +0000</pubDate>
       
-      <guid>https://seric.at/2008/06/29/eee900-und-der-deutsche-markt/</guid>
+      <guid>http://seric.at/2008/06/29/eee900-und-der-deutsche-markt/</guid>
       <description>Ich bloggte bereits schon einmal davon, und nun ist letzte Woche wirklich das eingetreten, was ich befürchtet habe. Der Asus EEE900 wird von Asus auf dem deutschen Markt lediglich mit Windows XP und somit einer um 8GB kleineren SSD (12GB statt 20GB) ausgeliefert. Für die 60% weniger Speicher bekommt man auch noch gleich weniger Betriebssystem. Auch wenn es mir grundsätzlich egal ist, welches Betriebssystem vorinstalliert ist (man kann dieses ja ersetzten) finde ich es doch erstaunlich, wie es Microsoft wieder geschafft hat, die enge Bindung mit den Herstellern &amp;#8211; in diesem Fall Asus &amp;#8211; auszuspielen.</description>
     </item>
     
     <item>
       <title>Asus EEE 900 Windows XP statt Linux?</title>
-      <link>https://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</link>
+      <link>http://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</link>
       <pubDate>Thu, 08 May 2008 19:53:22 +0000</pubDate>
       
-      <guid>https://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</guid>
+      <guid>http://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</guid>
       <description>Ich musste etwas schlucken, als ich folgende Meldung auf Slashdot gelesen habe:
  It sounds crazy to say this, but the XP-based version of the Eee PC 900 (the new version with the 8.9&amp;#8243; screen) will actually be considerably cheaper than the Linux-based version. At the official launch today, the company told journalists that &amp;#8216;Microsoft has been a longstanding supporter of Asus&amp;#8217; to explain the price discrepancy. And — get this — only the XP-based machine will be sold at mass-market retailers, while the Linux-based model will be consigned to computer stores.</description>
     </item>

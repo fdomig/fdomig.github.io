@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rest on Franziskus Domig</title>
-    <link>https://seric.at/tags/rest/</link>
+    <link>http://seric.at/tags/rest/</link>
     <description>Recent content in Rest on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 02 Sep 2008 20:21:57 +0000</lastBuildDate>
     
-	<atom:link href="https://seric.at/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://seric.at/tags/rest/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Symfony 1.2 introduces REST</title>
-      <link>https://seric.at/2008/09/02/symfony-12-introduces-rest/</link>
+      <link>http://seric.at/2008/09/02/symfony-12-introduces-rest/</link>
       <pubDate>Tue, 02 Sep 2008 20:21:57 +0000</pubDate>
       
-      <guid>https://seric.at/2008/09/02/symfony-12-introduces-rest/</guid>
+      <guid>http://seric.at/2008/09/02/symfony-12-introduces-rest/</guid>
       <description>As Fabien just posted on the Symfony Blog the next major release of Symfony &amp;#8211; Symfony 1.2 &amp;#8211; will introduce a quite cool feature to the framework. It will be possible to add a hidden form element to add REST inforrmation to the form and get the REST state with sfRequest::getMethod(). This is quite useful and adds native support for PUT and DELETE from the browser.</description>
     </item>
     
