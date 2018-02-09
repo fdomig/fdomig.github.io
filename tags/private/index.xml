@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Private on Franziskus Domig</title>
-    <link>https://blog.seric.at/tags/private/</link>
+    <link>https://seric.at/tags/private/</link>
     <description>Recent content in Private on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 16 Sep 2008 20:11:31 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.seric.at/tags/private/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seric.at/tags/private/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Changed Blog URL</title>
-      <link>https://blog.seric.at/2008/09/16/changed-blog-url/</link>
+      <link>https://seric.at/2008/09/16/changed-blog-url/</link>
       <pubDate>Tue, 16 Sep 2008 20:11:31 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/09/16/changed-blog-url/</guid>
+      <guid>https://seric.at/2008/09/16/changed-blog-url/</guid>
       <description>FYI: The URL of this blog has changed from http://seric.at/blog/ to https://blog.seric.atPlease update your bookmarks and links.</description>
     </item>
     

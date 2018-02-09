@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cil on Franziskus Domig</title>
-    <link>https://blog.seric.at/tags/cil/</link>
+    <link>https://seric.at/tags/cil/</link>
     <description>Recent content in Cil on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 06 Mar 2008 22:44:23 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.seric.at/tags/cil/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seric.at/tags/cil/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wer sagt C wäre simpel?</title>
-      <link>https://blog.seric.at/2008/03/06/wer-sagt-c-ware-simpel/</link>
+      <link>https://seric.at/2008/03/06/wer-sagt-c-ware-simpel/</link>
       <pubDate>Thu, 06 Mar 2008 22:44:23 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/03/06/wer-sagt-c-ware-simpel/</guid>
+      <guid>https://seric.at/2008/03/06/wer-sagt-c-ware-simpel/</guid>
       <description>Ich habe eine interessante Webseite gefunden, welche sich mit dem teilweise witzigen und komischen Verhalten von C bzw. dem Compiler (GCC sowie Microsoft VC) befasst.</description>
     </item>
     

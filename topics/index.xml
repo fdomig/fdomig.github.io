@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Franziskus Domig</title>
-    <link>https://blog.seric.at/topics/</link>
+    <link>https://seric.at/topics/</link>
     <description>Recent content in Topics on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     
-	<atom:link href="https://blog.seric.at/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seric.at/topics/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

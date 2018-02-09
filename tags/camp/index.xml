@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Camp on Franziskus Domig</title>
-    <link>https://blog.seric.at/tags/camp/</link>
+    <link>https://seric.at/tags/camp/</link>
     <description>Recent content in Camp on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 26 Feb 2008 19:36:21 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.seric.at/tags/camp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seric.at/tags/camp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PHP-Code-Camp in München</title>
-      <link>https://blog.seric.at/2008/02/26/php-code-camp-in-munchen/</link>
+      <link>https://seric.at/2008/02/26/php-code-camp-in-munchen/</link>
       <pubDate>Tue, 26 Feb 2008 19:36:21 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/02/26/php-code-camp-in-munchen/</guid>
+      <guid>https://seric.at/2008/02/26/php-code-camp-in-munchen/</guid>
       <description>Vom 3. bis zum 6. März 2008 findet in München das PHP Code Camp statt und es sind noch Plätze frei. Auf diesem Camp werden unterschiedliche Schulungen mit einigen bekannten Referenten abgehalten. Das Camp findet im NH Hotel Deutscher Kaiser direkt am Münchner Hauptbahnhof statt und kostet ab 1.790 Euro. Organisiert wird das Code Camp vom PHP Magazin und von der Entwickler Akademie und wird als ein neuartiges Trainingskonzept beworben, das vier Tage lang in konzentrierter Form vermittelt, wie PHP-Anwendungen mit professionellem Anspruch entwickelt werden können.</description>
     </item>
     

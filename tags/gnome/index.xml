@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gnome on Franziskus Domig</title>
-    <link>https://blog.seric.at/tags/gnome/</link>
+    <link>https://seric.at/tags/gnome/</link>
     <description>Recent content in Gnome on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 29 Mar 2009 17:01:20 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.seric.at/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seric.at/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>It’s time for Ubuntu 9.04 Jaunty Jackalope</title>
-      <link>https://blog.seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</link>
+      <link>https://seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</link>
       <pubDate>Sun, 29 Mar 2009 17:01:20 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</guid>
+      <guid>https://seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</guid>
       <description>Wer sich dafür interessiert, hat es wahrscheinlich bereits gelesen. Die Beta der kommenden Version von Ubuntu 9.04 Jaunty Jackalope ist vergangene Woche erschienen. Ich selbst verwende seit Alpha3 Jaunty produktiv(!) und bin positiv überrascht. Jaunty wirkt frischer und vor allem läuft es spürbar schneller. Viele Bugs wurden ausgebessert, viele Features eingepflegt. So kommt Ubuntu 9.04 mit dem aktuellen Gnome 2.26.0, Openoffice.org 3.0.1 (3.1.x wir wohl erst mit der nächsten Version kommen).</description>
     </item>
     
     <item>
       <title>Ubuntu 8.04 Noch vier Tage</title>
-      <link>https://blog.seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</link>
+      <link>https://seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</link>
       <pubDate>Sun, 20 Apr 2008 19:16:40 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</guid>
+      <guid>https://seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</guid>
       <description>In vier Tagen ist es soweit und Ubuntu 8.04 Hardy Heron wird offiziell released werden. Ich verwende 8.04 seit der Beta Version und bin mit den aktuellen Updates sehr zufrieden. Das System läuft mit dem Kernel 2.6.24-15 sehr flott, der Firefox 3 Beta 5 ist mittlerweile recht stabil und Gnome 2.22 ist richtig genial.
 Zwei kleine Bugs nerven mich allerdings momentan noch, fsck 1.40.8 will bei jedem (Re)boot meines Rechners die Platten prüfen und evolution-data-server 2.</description>
     </item>
     
     <item>
       <title>Gnome 2.22</title>
-      <link>https://blog.seric.at/2008/03/13/gnome-222/</link>
+      <link>https://seric.at/2008/03/13/gnome-222/</link>
       <pubDate>Wed, 12 Mar 2008 23:26:49 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/03/13/gnome-222/</guid>
+      <guid>https://seric.at/2008/03/13/gnome-222/</guid>
       <description>Nachdem vor sechs Monaten Gnome 2.20 veröffentlicht wurde, wurde heute nach dem festgelegten Release-Plan &amp;#8211; und nach zwei Betas und eines Release-Candidates &amp;#8211; die neueste Version der beliebten Linux Desktopumgebung Gnome veröffentlicht.
 Die größte Änderung werden die Benutzer gar nicht bemerken, das ausgediente GnomeVFS wurde durch GVFS ersetzt. Für den Anwender allerdings erfreulicher sind bestimmt die optischen Aufwertungen sowie die neu hinzugekommenen Features. Eine neue Anwendung ist zum Beispiel Cheese, womit sich Fotos und Videos der Webcam aufnehmen und mit Effekten verändern lassen.</description>
     </item>

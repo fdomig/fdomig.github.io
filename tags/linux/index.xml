@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Franziskus Domig</title>
-    <link>https://blog.seric.at/tags/linux/</link>
+    <link>https://seric.at/tags/linux/</link>
     <description>Recent content in Linux on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 29 Mar 2009 17:01:20 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.seric.at/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seric.at/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>It’s time for Ubuntu 9.04 Jaunty Jackalope</title>
-      <link>https://blog.seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</link>
+      <link>https://seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</link>
       <pubDate>Sun, 29 Mar 2009 17:01:20 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</guid>
+      <guid>https://seric.at/2009/03/29/its-time-for-ubuntu-904-jaunty-jackalope/</guid>
       <description>Wer sich dafür interessiert, hat es wahrscheinlich bereits gelesen. Die Beta der kommenden Version von Ubuntu 9.04 Jaunty Jackalope ist vergangene Woche erschienen. Ich selbst verwende seit Alpha3 Jaunty produktiv(!) und bin positiv überrascht. Jaunty wirkt frischer und vor allem läuft es spürbar schneller. Viele Bugs wurden ausgebessert, viele Features eingepflegt. So kommt Ubuntu 9.04 mit dem aktuellen Gnome 2.26.0, Openoffice.org 3.0.1 (3.1.x wir wohl erst mit der nächsten Version kommen).</description>
     </item>
     
     <item>
       <title>Dunkles Theme für Ubuntu</title>
-      <link>https://blog.seric.at/2008/12/01/dunkles-theme-fur-ubuntu/</link>
+      <link>https://seric.at/2008/12/01/dunkles-theme-fur-ubuntu/</link>
       <pubDate>Mon, 01 Dec 2008 22:12:21 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/12/01/dunkles-theme-fur-ubuntu/</guid>
+      <guid>https://seric.at/2008/12/01/dunkles-theme-fur-ubuntu/</guid>
       <description>[][1]Ubuntu Dust Theme Auch wenn es viele nicht glauben und meinen damit nicht arbeiten zu können. Ich finde es wirklich hübsch und habe mich schnell an ein dunkles Theme für Ubuntu 8.10 (Dust) gewöhnt. Auch passt ein etwas adaptierter Avant Window Navigator hervorragend dazu.
 Firefox Theme sowie Desktop Hintergrund sollte man ebenfalls bei oben genannten Link finden. Einfach mal ausprobieren.</description>
     </item>
     
     <item>
       <title>Ubuntu 8.10 – Intrepid Ibex</title>
-      <link>https://blog.seric.at/2008/10/31/ubuntu-810-intrepid-ibex/</link>
+      <link>https://seric.at/2008/10/31/ubuntu-810-intrepid-ibex/</link>
       <pubDate>Fri, 31 Oct 2008 18:51:57 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/10/31/ubuntu-810-intrepid-ibex/</guid>
+      <guid>https://seric.at/2008/10/31/ubuntu-810-intrepid-ibex/</guid>
       <description>Da ich schon lange nichts mehr geschrieben habe, gibts einfach mal ein Status Update: Das Upgrade von Ubuntu 8.04 zu 8.10 verlief (erwartungsgemäß) problemlos und es gibt eigentlich nicht mehr zum ergänzen. Es läuft einfach hervorragend und macht Spaß.</description>
     </item>
     
     <item>
       <title>Dear Asus</title>
-      <link>https://blog.seric.at/2008/08/28/dear-asus/</link>
+      <link>https://seric.at/2008/08/28/dear-asus/</link>
       <pubDate>Thu, 28 Aug 2008 19:28:00 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/08/28/dear-asus/</guid>
+      <guid>https://seric.at/2008/08/28/dear-asus/</guid>
       <description>Please release a *good* equipted EEE-PCs like the EEE 901 with Linux and do not yield to the awful M$ Windows XP rules. Please!</description>
     </item>
     
     <item>
       <title>MythTV fehlt</title>
-      <link>https://blog.seric.at/2008/07/09/mythtv-fehlt/</link>
+      <link>https://seric.at/2008/07/09/mythtv-fehlt/</link>
       <pubDate>Wed, 09 Jul 2008 21:04:04 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/07/09/mythtv-fehlt/</guid>
+      <guid>https://seric.at/2008/07/09/mythtv-fehlt/</guid>
       <description>Wenn man nicht zu Hause ist und wieder auf einen konventionellen Fernseher angewiesen ist, dann fällt einem schnell wieder ein, dass es ja Wartezeiten auf bestimmte Filme, Serien oder Sonstiges gibt und &amp;#8211; viel schlimmer &amp;#8211; dass es Werbung gibt!
 Zuhause verwende ich einen alten Rechner (P4 2GHz, 512MB RAM, 750GB HDD) mit einem DVB-T Stick und einer minimalen Ubuntu Installation mit dem MythTV-Backend und -Frontend Paketen (gibt es auch gleich kombiniert als Mythbuntu).</description>
     </item>
     
     <item>
       <title>EEE900 und der deutsche Markt</title>
-      <link>https://blog.seric.at/2008/06/29/eee900-und-der-deutsche-markt/</link>
+      <link>https://seric.at/2008/06/29/eee900-und-der-deutsche-markt/</link>
       <pubDate>Sun, 29 Jun 2008 10:53:21 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/06/29/eee900-und-der-deutsche-markt/</guid>
+      <guid>https://seric.at/2008/06/29/eee900-und-der-deutsche-markt/</guid>
       <description>Ich bloggte bereits schon einmal davon, und nun ist letzte Woche wirklich das eingetreten, was ich befürchtet habe. Der Asus EEE900 wird von Asus auf dem deutschen Markt lediglich mit Windows XP und somit einer um 8GB kleineren SSD (12GB statt 20GB) ausgeliefert. Für die 60% weniger Speicher bekommt man auch noch gleich weniger Betriebssystem. Auch wenn es mir grundsätzlich egal ist, welches Betriebssystem vorinstalliert ist (man kann dieses ja ersetzten) finde ich es doch erstaunlich, wie es Microsoft wieder geschafft hat, die enge Bindung mit den Herstellern &amp;#8211; in diesem Fall Asus &amp;#8211; auszuspielen.</description>
     </item>
     
     <item>
       <title>Asus EEE 900 Windows XP statt Linux?</title>
-      <link>https://blog.seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</link>
+      <link>https://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</link>
       <pubDate>Thu, 08 May 2008 19:53:22 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</guid>
+      <guid>https://seric.at/2008/05/08/asus-eee-900-windows-xp-statt-linu/</guid>
       <description>Ich musste etwas schlucken, als ich folgende Meldung auf Slashdot gelesen habe:
  It sounds crazy to say this, but the XP-based version of the Eee PC 900 (the new version with the 8.9&amp;#8243; screen) will actually be considerably cheaper than the Linux-based version. At the official launch today, the company told journalists that &amp;#8216;Microsoft has been a longstanding supporter of Asus&amp;#8217; to explain the price discrepancy. And — get this — only the XP-based machine will be sold at mass-market retailers, while the Linux-based model will be consigned to computer stores.</description>
     </item>
     
     <item>
       <title>Ubuntu 8.04 Noch vier Tage</title>
-      <link>https://blog.seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</link>
+      <link>https://seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</link>
       <pubDate>Sun, 20 Apr 2008 19:16:40 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</guid>
+      <guid>https://seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</guid>
       <description>In vier Tagen ist es soweit und Ubuntu 8.04 Hardy Heron wird offiziell released werden. Ich verwende 8.04 seit der Beta Version und bin mit den aktuellen Updates sehr zufrieden. Das System läuft mit dem Kernel 2.6.24-15 sehr flott, der Firefox 3 Beta 5 ist mittlerweile recht stabil und Gnome 2.22 ist richtig genial.
 Zwei kleine Bugs nerven mich allerdings momentan noch, fsck 1.40.8 will bei jedem (Re)boot meines Rechners die Platten prüfen und evolution-data-server 2.</description>
     </item>
     
     <item>
       <title>Ubuntu 8.04 Hardy Heron</title>
-      <link>https://blog.seric.at/2008/03/21/ubuntu-804-hardy-heron/</link>
+      <link>https://seric.at/2008/03/21/ubuntu-804-hardy-heron/</link>
       <pubDate>Fri, 21 Mar 2008 18:23:09 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/03/21/ubuntu-804-hardy-heron/</guid>
+      <guid>https://seric.at/2008/03/21/ubuntu-804-hardy-heron/</guid>
       <description>Ich habe soeben meinen Desktop-Rechner, den ich eigentlich nicht allzu oft benutze dazu verwendet um von Ubuntu 7.10 Gutsy Gibbon auf Ubuntu 8.04 Hardy Heron (Beta) upzudaten und hatte mich eigentlich schon auf einige Probleme gefasst gemacht. Es kam allerdings ganz anders, ich schubste mittels
 sudo update-manager -d
 den Update-Manager an um die neue Distribution 8.04 zu finden. Alles wunderbar, 1027 Pakete mussten heruntergeladen werden &amp;#8211; und das war auch schon der einzige nervige Teil, denn die Server scheinen momentan etwas Überlastet zu sein.</description>
@@ -100,20 +100,20 @@ den Update-Manager an um die neue Distribution 8.04 zu finden. Alles wunderbar, 
     
     <item>
       <title>Gnome 2.22</title>
-      <link>https://blog.seric.at/2008/03/13/gnome-222/</link>
+      <link>https://seric.at/2008/03/13/gnome-222/</link>
       <pubDate>Wed, 12 Mar 2008 23:26:49 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/03/13/gnome-222/</guid>
+      <guid>https://seric.at/2008/03/13/gnome-222/</guid>
       <description>Nachdem vor sechs Monaten Gnome 2.20 veröffentlicht wurde, wurde heute nach dem festgelegten Release-Plan &amp;#8211; und nach zwei Betas und eines Release-Candidates &amp;#8211; die neueste Version der beliebten Linux Desktopumgebung Gnome veröffentlicht.
 Die größte Änderung werden die Benutzer gar nicht bemerken, das ausgediente GnomeVFS wurde durch GVFS ersetzt. Für den Anwender allerdings erfreulicher sind bestimmt die optischen Aufwertungen sowie die neu hinzugekommenen Features. Eine neue Anwendung ist zum Beispiel Cheese, womit sich Fotos und Videos der Webcam aufnehmen und mit Effekten verändern lassen.</description>
     </item>
     
     <item>
       <title>PowerTOP</title>
-      <link>https://blog.seric.at/2008/02/07/powertop/</link>
+      <link>https://seric.at/2008/02/07/powertop/</link>
       <pubDate>Thu, 07 Feb 2008 16:49:42 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/02/07/powertop/</guid>
+      <guid>https://seric.at/2008/02/07/powertop/</guid>
       <description>Seit dem Linux-Kernel 2.6.21 ist dieser zwar tickless geworden (sprich, kein timer tick mehr alle 1000Hz), trotzdem ist der Linux-Kernel bzw. sind Linux-Programme noch weit davon entfernt richtig energiesparend zu arbeiten.
 Mit dem &amp;#8211; bestimmt vielen bekannten &amp;#8211; von Intel entwickelten Tool PowerTOP lassen sich die Ursachen für hohen Stromverbrauch lokalisieren sowie entsprechende nicht verwendeten Energiesparfunktionen aktivieren.
 Ich verwende dieses Programm nun seit geraumer Zeit und muss sagen, dass ich im Akkubetrieb mit meinem Notebook (Asus A8JP) eine um durchschnittlich ca.</description>

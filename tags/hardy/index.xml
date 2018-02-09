@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardy on Franziskus Domig</title>
-    <link>https://blog.seric.at/tags/hardy/</link>
+    <link>https://seric.at/tags/hardy/</link>
     <description>Recent content in Hardy on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 20 Apr 2008 19:16:40 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.seric.at/tags/hardy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://seric.at/tags/hardy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu 8.04 Noch vier Tage</title>
-      <link>https://blog.seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</link>
+      <link>https://seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</link>
       <pubDate>Sun, 20 Apr 2008 19:16:40 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</guid>
+      <guid>https://seric.at/2008/04/20/ubuntu-804-hardy-heron-noch-vier-tage/</guid>
       <description>In vier Tagen ist es soweit und Ubuntu 8.04 Hardy Heron wird offiziell released werden. Ich verwende 8.04 seit der Beta Version und bin mit den aktuellen Updates sehr zufrieden. Das System läuft mit dem Kernel 2.6.24-15 sehr flott, der Firefox 3 Beta 5 ist mittlerweile recht stabil und Gnome 2.22 ist richtig genial.
 Zwei kleine Bugs nerven mich allerdings momentan noch, fsck 1.40.8 will bei jedem (Re)boot meines Rechners die Platten prüfen und evolution-data-server 2.</description>
     </item>
     
     <item>
       <title>Ubuntu 8.04: Totem mit Youtube Plugin</title>
-      <link>https://blog.seric.at/2008/03/26/ubuntu-804-totem-mit-youtube-plugin/</link>
+      <link>https://seric.at/2008/03/26/ubuntu-804-totem-mit-youtube-plugin/</link>
       <pubDate>Wed, 26 Mar 2008 06:31:11 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/03/26/ubuntu-804-totem-mit-youtube-plugin/</guid>
+      <guid>https://seric.at/2008/03/26/ubuntu-804-totem-mit-youtube-plugin/</guid>
       <description>Ubuntu 8.04 Hardy Heron kommt mit einem frischen Totem Videoplayer mit Youtube Plugin welches allerdings in der aktuellen Hardy Beta noch etwas angeschubst werden muss. Das Plugin lässt sich bei einigen Installationen nicht so einfach aktivieren und bricht mit der (nicht sehr aussagekräftigen) Fehlermeldung: Plugin Fehler &amp;#8220;Plugin »YouTube-Browser« konnte nicht aktiviert werden&amp;#8221; ab.
 Abhilfe schafft die Installation des Pakets python-gdata welches für das Plugin benötigt wird, dieses kann man mittels: sudo apt-get install python-gdata aus den Paketquellen installieren.</description>
     </item>
     
     <item>
       <title>Ubuntu 8.04 Hardy Heron</title>
-      <link>https://blog.seric.at/2008/03/21/ubuntu-804-hardy-heron/</link>
+      <link>https://seric.at/2008/03/21/ubuntu-804-hardy-heron/</link>
       <pubDate>Fri, 21 Mar 2008 18:23:09 +0000</pubDate>
       
-      <guid>https://blog.seric.at/2008/03/21/ubuntu-804-hardy-heron/</guid>
+      <guid>https://seric.at/2008/03/21/ubuntu-804-hardy-heron/</guid>
       <description>Ich habe soeben meinen Desktop-Rechner, den ich eigentlich nicht allzu oft benutze dazu verwendet um von Ubuntu 7.10 Gutsy Gibbon auf Ubuntu 8.04 Hardy Heron (Beta) upzudaten und hatte mich eigentlich schon auf einige Probleme gefasst gemacht. Es kam allerdings ganz anders, ich schubste mittels
 sudo update-manager -d
 den Update-Manager an um die neue Distribution 8.04 zu finden. Alles wunderbar, 1027 Pakete mussten heruntergeladen werden &amp;#8211; und das war auch schon der einzige nervige Teil, denn die Server scheinen momentan etwas Überlastet zu sein.</description>
