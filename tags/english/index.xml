@@ -6,19 +6,10 @@
     <description>Recent content in English on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 16 Sep 2008 20:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2008 20:21:57 +0000</lastBuildDate>
     
 	<atom:link href="https://seric.at/tags/english/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Changed Blog URL</title>
-      <link>https://seric.at/2008/09/16/changed-blog-url/</link>
-      <pubDate>Tue, 16 Sep 2008 20:11:31 +0000</pubDate>
-      
-      <guid>https://seric.at/2008/09/16/changed-blog-url/</guid>
-      <description>FYI: The URL of this blog has changed from http://seric.at/blog/ to https://blog.seric.atPlease update your bookmarks and links.</description>
-    </item>
     
     <item>
       <title>Symfony 1.2 introduces REST</title>
