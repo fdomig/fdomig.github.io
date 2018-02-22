@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projekt on Franziskus Domig</title>
-    <link>http://seric.at/tags/projekt/</link>
+    <link>http://blog.seric.at/tags/projekt/</link>
     <description>Recent content in Projekt on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 01 Mar 2008 13:22:37 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/projekt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/projekt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>#php.de@IRCnet</title>
-      <link>http://seric.at/2008/03/01/phpdeircnet/</link>
+      <link>http://blog.seric.at/2008/03/01/phpdeircnet/</link>
       <pubDate>Sat, 01 Mar 2008 13:22:37 +0000</pubDate>
       
-      <guid>http://seric.at/2008/03/01/phpdeircnet/</guid>
+      <guid>http://blog.seric.at/2008/03/01/phpdeircnet/</guid>
       <description>Weil ich mich nie an die Blogs der unterschiedlichen Leute im IRCnet Channel #php.de erinnern kann, habe ich angefangen eine Liste mit eben den Blogs dieser anzulegen. Es gibt für jeden #php.de User die Möglichkeit sich selbst einzutragen, ich muss dann den entsprechenden Link lediglich noch freischalten.
 Für alle Interessierten: #php.de@IRCnet Blogs</description>
     </item>

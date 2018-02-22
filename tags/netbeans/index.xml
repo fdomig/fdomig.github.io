@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Netbeans on Franziskus Domig</title>
-    <link>http://seric.at/tags/netbeans/</link>
+    <link>http://blog.seric.at/tags/netbeans/</link>
     <description>Recent content in Netbeans on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 12 Jul 2009 14:09:11 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/netbeans/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/netbeans/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Symfony Support in NetBeans 6.8 Announced</title>
-      <link>http://seric.at/2009/07/12/symfony-support-in-netbeans-6-8-announced/</link>
+      <link>http://blog.seric.at/2009/07/12/symfony-support-in-netbeans-6-8-announced/</link>
       <pubDate>Sun, 12 Jul 2009 14:09:11 +0000</pubDate>
       
-      <guid>http://seric.at/2009/07/12/symfony-support-in-netbeans-6-8-announced/</guid>
+      <guid>http://blog.seric.at/2009/07/12/symfony-support-in-netbeans-6-8-announced/</guid>
       <description>The NetBeans Team has announced to support not just PHP 5.3 which was released earlier last week but also Symfony in the next release (6.8)!
 Because I am not very pleased with the PHP support within Eclipse PDT, I am currently using VIM for PHP, and specially, Symfony development.
 Since Pierre told me recently that the PHP support for NetBeans is getting better and better, I am really looking forward to the next NetBeans release.</description>

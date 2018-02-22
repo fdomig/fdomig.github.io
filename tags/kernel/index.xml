@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kernel on Franziskus Domig</title>
-    <link>http://seric.at/tags/kernel/</link>
+    <link>http://blog.seric.at/tags/kernel/</link>
     <description>Recent content in Kernel on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 07 Feb 2008 16:49:42 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PowerTOP</title>
-      <link>http://seric.at/2008/02/07/powertop/</link>
+      <link>http://blog.seric.at/2008/02/07/powertop/</link>
       <pubDate>Thu, 07 Feb 2008 16:49:42 +0000</pubDate>
       
-      <guid>http://seric.at/2008/02/07/powertop/</guid>
+      <guid>http://blog.seric.at/2008/02/07/powertop/</guid>
       <description>Seit dem Linux-Kernel 2.6.21 ist dieser zwar tickless geworden (sprich, kein timer tick mehr alle 1000Hz), trotzdem ist der Linux-Kernel bzw. sind Linux-Programme noch weit davon entfernt richtig energiesparend zu arbeiten.
 Mit dem &amp;#8211; bestimmt vielen bekannten &amp;#8211; von Intel entwickelten Tool PowerTOP lassen sich die Ursachen für hohen Stromverbrauch lokalisieren sowie entsprechende nicht verwendeten Energiesparfunktionen aktivieren.
 Ich verwende dieses Programm nun seit geraumer Zeit und muss sagen, dass ich im Akkubetrieb mit meinem Notebook (Asus A8JP) eine um durchschnittlich ca.</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on Franziskus Domig</title>
-    <link>http://seric.at/tags/game/</link>
+    <link>http://blog.seric.at/tags/game/</link>
     <description>Recent content in Game on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 19 Jan 2009 17:39:47 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Auditorium</title>
-      <link>http://seric.at/2009/01/19/auditorium/</link>
+      <link>http://blog.seric.at/2009/01/19/auditorium/</link>
       <pubDate>Mon, 19 Jan 2009 17:39:47 +0000</pubDate>
       
-      <guid>http://seric.at/2009/01/19/auditorium/</guid>
+      <guid>http://blog.seric.at/2009/01/19/auditorium/</guid>
       <description>Ein sehr, sehr tolles und innovatives Musikspiel: Auditorium habe ich soeben entdeckt und möchte ich euch nicht vorenthalten. Das Spiel läuft per Flash im Browser und Ziel ist es einen vorhandenen Lichtstrahl mit Hilfe von Kreisen welche den Strahl ablenken können auf Musik-Felder zu bewegen. Mit etwas Geschick sind auch die teilweise gar nicht so leichten Vorgaben lösbar. Viel Spaß.</description>
     </item>
     

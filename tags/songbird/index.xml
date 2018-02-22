@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Songbird on Franziskus Domig</title>
-    <link>http://seric.at/tags/songbird/</link>
+    <link>http://blog.seric.at/tags/songbird/</link>
     <description>Recent content in Songbird on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 08 Dec 2008 09:48:09 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/songbird/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/songbird/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Songbird</title>
-      <link>http://seric.at/2008/12/08/songbird/</link>
+      <link>http://blog.seric.at/2008/12/08/songbird/</link>
       <pubDate>Mon, 08 Dec 2008 09:48:09 +0000</pubDate>
       
-      <guid>http://seric.at/2008/12/08/songbird/</guid>
+      <guid>http://blog.seric.at/2008/12/08/songbird/</guid>
       <description>Wie es scheint, ist Songbird doch noch nicht so bekannt wie ich dachte. Gut, also &amp;#8216;mal kurz vorstellen. Songbird ist der flexible Audioplayer von &amp;#8220;Pioneers of the Inevitable&amp;#8221; , wird Open-Source entwickelt und ist nun bereits in der ersten stabilen Version 1.0 verfügbar.
 Hauptvorteil ist meines Erachtens die enorme Anzahl an verfügbaren Addons mit welchen sich Songbird wirklich zu einem sehr modernen und tollen Mediaplayer einrichten lässt. Ich selbst verwende die Addons Lastfm, Mediaflow, LyricMaster und Music Recommendations.</description>
     </item>

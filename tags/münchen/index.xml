@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>München on Franziskus Domig</title>
-    <link>http://seric.at/tags/m%C3%BCnchen/</link>
+    <link>http://blog.seric.at/tags/m%C3%BCnchen/</link>
     <description>Recent content in München on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 07 Jul 2008 18:39:40 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/m%C3%BCnchen/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/m%C3%BCnchen/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bayrische Spezialitäten</title>
-      <link>http://seric.at/2008/07/07/bayrische-spezialitaten/</link>
+      <link>http://blog.seric.at/2008/07/07/bayrische-spezialitaten/</link>
       <pubDate>Mon, 07 Jul 2008 18:39:40 +0000</pubDate>
       
-      <guid>http://seric.at/2008/07/07/bayrische-spezialitaten/</guid>
+      <guid>http://blog.seric.at/2008/07/07/bayrische-spezialitaten/</guid>
       <description>Ich arbeite die nächsten paar Wochen in München und bin heute angekommen und habe natürlich sofort die ersten Kontakte mit den Ureinwohnern geschlossen. Zudem habe ich zum Abendessen gleich mal bayrische Spezialitäten probiert und muss sagen: Kaum ein Unterschied zu verspühren &amp;#8211; schmeckt zuhause gleich!
 Ernsthaft: Leider hatte ich noch keine Möglichkeit die lokalen Spezialitäten zu probieren. Ich denke da speziell an bayrisches Weißbier und natürlich Münchner Weißwürste.
 Aber ich bin sozusagen noch völlig offen für alle möglichen kulinarischen Vorschläge, also nur her damit!</description>
@@ -24,10 +24,10 @@ Aber ich bin sozusagen noch völlig offen für alle möglichen kulinarischen Vor
     
     <item>
       <title>PHP-Code-Camp in München</title>
-      <link>http://seric.at/2008/02/26/php-code-camp-in-munchen/</link>
+      <link>http://blog.seric.at/2008/02/26/php-code-camp-in-munchen/</link>
       <pubDate>Tue, 26 Feb 2008 19:36:21 +0000</pubDate>
       
-      <guid>http://seric.at/2008/02/26/php-code-camp-in-munchen/</guid>
+      <guid>http://blog.seric.at/2008/02/26/php-code-camp-in-munchen/</guid>
       <description>Vom 3. bis zum 6. März 2008 findet in München das PHP Code Camp statt und es sind noch Plätze frei. Auf diesem Camp werden unterschiedliche Schulungen mit einigen bekannten Referenten abgehalten. Das Camp findet im NH Hotel Deutscher Kaiser direkt am Münchner Hauptbahnhof statt und kostet ab 1.790 Euro. Organisiert wird das Code Camp vom PHP Magazin und von der Entwickler Akademie und wird als ein neuartiges Trainingskonzept beworben, das vier Tage lang in konzentrierter Form vermittelt, wie PHP-Anwendungen mit professionellem Anspruch entwickelt werden können.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ajax on Franziskus Domig</title>
-    <link>http://seric.at/tags/ajax/</link>
+    <link>http://blog.seric.at/tags/ajax/</link>
     <description>Recent content in Ajax on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 12 Aug 2008 16:30:58 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Symfony 1.1 Ajax Form Validation</title>
-      <link>http://seric.at/2008/08/12/symfony-1-1-ajax-form-validation/</link>
+      <link>http://blog.seric.at/2008/08/12/symfony-1-1-ajax-form-validation/</link>
       <pubDate>Tue, 12 Aug 2008 16:30:58 +0000</pubDate>
       
-      <guid>http://seric.at/2008/08/12/symfony-1-1-ajax-form-validation/</guid>
+      <guid>http://blog.seric.at/2008/08/12/symfony-1-1-ajax-form-validation/</guid>
       <description>&lt;p&gt;Since &lt;a href=&#34;http://www.symfony-project.org/blog/2008/06/30/the-wait-is-over-symfony-1-1-released&#34;&gt;Symfony 1.1 was released&lt;/a&gt;, I am working with it. I adept a existing Symfony 1.0 application to 1.1. This process is quite tricky and needs a lot of research to get the result that I want.&lt;/p&gt;
 
 &lt;p&gt;As I faced a problem with a form which I submit via an Ajax request, I found a pretty nice solution in doing this with Symfony 1.1.&lt;/p&gt;

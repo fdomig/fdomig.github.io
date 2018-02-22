@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beta on Franziskus Domig</title>
-    <link>http://seric.at/tags/beta/</link>
+    <link>http://blog.seric.at/tags/beta/</link>
     <description>Recent content in Beta on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 26 Mar 2008 06:31:11 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/beta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/beta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ubuntu 8.04: Totem mit Youtube Plugin</title>
-      <link>http://seric.at/2008/03/26/ubuntu-804-totem-mit-youtube-plugin/</link>
+      <link>http://blog.seric.at/2008/03/26/ubuntu-804-totem-mit-youtube-plugin/</link>
       <pubDate>Wed, 26 Mar 2008 06:31:11 +0000</pubDate>
       
-      <guid>http://seric.at/2008/03/26/ubuntu-804-totem-mit-youtube-plugin/</guid>
+      <guid>http://blog.seric.at/2008/03/26/ubuntu-804-totem-mit-youtube-plugin/</guid>
       <description>Ubuntu 8.04 Hardy Heron kommt mit einem frischen Totem Videoplayer mit Youtube Plugin welches allerdings in der aktuellen Hardy Beta noch etwas angeschubst werden muss. Das Plugin lässt sich bei einigen Installationen nicht so einfach aktivieren und bricht mit der (nicht sehr aussagekräftigen) Fehlermeldung: Plugin Fehler &amp;#8220;Plugin »YouTube-Browser« konnte nicht aktiviert werden&amp;#8221; ab.
 Abhilfe schafft die Installation des Pakets python-gdata welches für das Plugin benötigt wird, dieses kann man mittels: sudo apt-get install python-gdata aus den Paketquellen installieren.</description>
     </item>

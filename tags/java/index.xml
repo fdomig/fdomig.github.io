@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Franziskus Domig</title>
-    <link>http://seric.at/tags/java/</link>
+    <link>http://blog.seric.at/tags/java/</link>
     <description>Recent content in Java on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 16 Sep 2011 10:42:32 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/java/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Start an Android Intent without pushing on the history stack</title>
-      <link>http://seric.at/2011/09/16/start-an-android-intent-without-pushing-on-the-history-stack/</link>
+      <link>http://blog.seric.at/2011/09/16/start-an-android-intent-without-pushing-on-the-history-stack/</link>
       <pubDate>Fri, 16 Sep 2011 10:42:32 +0000</pubDate>
       
-      <guid>http://seric.at/2011/09/16/start-an-android-intent-without-pushing-on-the-history-stack/</guid>
+      <guid>http://blog.seric.at/2011/09/16/start-an-android-intent-without-pushing-on-the-history-stack/</guid>
       <description>&lt;p&gt;I was wondering how to create an Intent with the Android SDK which will not be pushed on top of the history stack. Which means, if another Intent will be started, the back button pressed event will not move back to the specific Intent. Actually this is done pretty easy with setting a &lt;a href=&#34;http://developer.android.com/reference/android/content/Intent.html#FLAG_ACTIVITY_NO_HISTORY&#34; title=&#34;Intent Description in the Android Developer Documentation&#34;&gt;FLAG_ACTIVITY_NO_HISTORY&lt;/a&gt;. An example the is given with the following code snipped.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>

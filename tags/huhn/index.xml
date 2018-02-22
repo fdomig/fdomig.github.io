@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huhn on Franziskus Domig</title>
-    <link>http://seric.at/tags/huhn/</link>
+    <link>http://blog.seric.at/tags/huhn/</link>
     <description>Recent content in Huhn on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 22 Mar 2008 11:25:52 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/huhn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/huhn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Woher die Ostereier kommen</title>
-      <link>http://seric.at/2008/03/22/woher-die-ostereier-kommen/</link>
+      <link>http://blog.seric.at/2008/03/22/woher-die-ostereier-kommen/</link>
       <pubDate>Sat, 22 Mar 2008 11:25:52 +0000</pubDate>
       
-      <guid>http://seric.at/2008/03/22/woher-die-ostereier-kommen/</guid>
+      <guid>http://blog.seric.at/2008/03/22/woher-die-ostereier-kommen/</guid>
       <description>Habe ich nun herausgefunden:</description>
     </item>
     

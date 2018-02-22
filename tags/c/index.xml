@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on Franziskus Domig</title>
-    <link>http://seric.at/tags/c/</link>
+    <link>http://blog.seric.at/tags/c/</link>
     <description>Recent content in C on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 12 Mar 2008 22:59:00 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/c/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/c/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sortieren einer Liste mit C&#43;&#43;</title>
-      <link>http://seric.at/2008/03/12/sortieren-einer-liste-mit-cpp/</link>
+      <link>http://blog.seric.at/2008/03/12/sortieren-einer-liste-mit-cpp/</link>
       <pubDate>Wed, 12 Mar 2008 22:59:00 +0000</pubDate>
       
-      <guid>http://seric.at/2008/03/12/sortieren-einer-liste-mit-cpp/</guid>
+      <guid>http://blog.seric.at/2008/03/12/sortieren-einer-liste-mit-cpp/</guid>
       <description>&lt;p&gt;Um eine (einfach) verkettete Liste mit C++ zu Sortieren gibt es unterschiedliche Ansätze. Ich habe die letzte Woche in einer Aufgabe im Rahmen meiner Algorithmik Vorlesung folgende Sortierungsfunktion implementiert, welche das Prinzip von &lt;a href=&#34;http://de.wikipedia.org/wiki/Bubblesort&#34; title=&#34;Bubblesort - Wikipedia&#34;&gt;Bubblesort&lt;/a&gt; verwendet. &lt;strong&gt;Achtung&lt;/strong&gt;: Bubblesort ist ein Algorithmus, den man nicht in einer Anwendung verwenden solle. Bubblesort gehört mit  &lt;img src=&#34;//s0.wp.com/latex.php?latex=O%28n%5E%7B2%7D%29+&amp;#038;bg=ffffff&amp;#038;fg=000&amp;#038;s=0&#34; alt=&#34;O(n^{2}) &#34; title=&#34;O(n^{2}) &#34; class=&#34;latex&#34; /&gt;eine sehr schlechte &lt;a href=&#34;http://de.wikipedia.org/wiki/Laufzeit_(Informatik)&#34;&gt;Laufzeit&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,29 +24,29 @@
     
     <item>
       <title>Wer sagt C wäre simpel?</title>
-      <link>http://seric.at/2008/03/06/wer-sagt-c-ware-simpel/</link>
+      <link>http://blog.seric.at/2008/03/06/wer-sagt-c-ware-simpel/</link>
       <pubDate>Thu, 06 Mar 2008 22:44:23 +0000</pubDate>
       
-      <guid>http://seric.at/2008/03/06/wer-sagt-c-ware-simpel/</guid>
+      <guid>http://blog.seric.at/2008/03/06/wer-sagt-c-ware-simpel/</guid>
       <description>Ich habe eine interessante Webseite gefunden, welche sich mit dem teilweise witzigen und komischen Verhalten von C bzw. dem Compiler (GCC sowie Microsoft VC) befasst.</description>
     </item>
     
     <item>
       <title>Die Türme von Hanoi in C</title>
-      <link>http://seric.at/2008/02/08/die-turme-von-hanoi-in-c/</link>
+      <link>http://blog.seric.at/2008/02/08/die-turme-von-hanoi-in-c/</link>
       <pubDate>Fri, 08 Feb 2008 11:19:46 +0000</pubDate>
       
-      <guid>http://seric.at/2008/02/08/die-turme-von-hanoi-in-c/</guid>
+      <guid>http://blog.seric.at/2008/02/08/die-turme-von-hanoi-in-c/</guid>
       <description>Ein beliebtes Beispiel für rekursives Programmieren ist das 1883 vom Mathematiker Eduard Lucas erfundene (Mathematik-)Denkspiel &amp;#8220;Die Türme von Hanoi&amp;#8220;.
 Das Spiel besteht darin, einen Stapel A von verschieden großen Scheiben, welche der Größe nach sortiert sind, auf einen Stapel C mithilfe eines &amp;#8220;Zwischenlager&amp;#8221;-Stapel B zu bewegen ohne dabei eine größere Scheibe auf eine kleinere Scheibe zu legen. Am Ende muss auf dem Stapel C die selbe geordnete Reihenfolge vorliegen, wie auf dem Ursprungs-Stapel A.</description>
     </item>
     
     <item>
       <title>isPrime.c</title>
-      <link>http://seric.at/2008/02/07/isprimec/</link>
+      <link>http://blog.seric.at/2008/02/07/isprimec/</link>
       <pubDate>Thu, 07 Feb 2008 10:49:09 +0000</pubDate>
       
-      <guid>http://seric.at/2008/02/07/isprimec/</guid>
+      <guid>http://blog.seric.at/2008/02/07/isprimec/</guid>
       <description>Ja, man würde vielleicht vermuten, dass es überhaupt keine Schwierigkeit ist, herauszufinden ob eine Zahl eine Primzahl ist oder nicht. Es soll jedoch Leute geben, die sich damit schwer tun (und zufälligerweise des öfteren neben mir in den Vorlesungen sitzen).
 Deswegen von mir (auch wenn man dieses Problem wohl niemals rekursiv lösen würde) der entsprechende Source-Code dazu:
 int isPrime(int num, int i) { if (num == 0) return 0; if (i*i  num) return 1; if ((num%i) == 0) return 0; return isPrime(num, (i+1)); } </description>

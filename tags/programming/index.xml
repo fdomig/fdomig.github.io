@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Franziskus Domig</title>
-    <link>http://seric.at/tags/programming/</link>
+    <link>http://blog.seric.at/tags/programming/</link>
     <description>Recent content in Programming on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 12 Feb 2008 16:17:15 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Externals in SVN inkludieren</title>
-      <link>http://seric.at/2008/02/12/externals-in-sv-inkludieren/</link>
+      <link>http://blog.seric.at/2008/02/12/externals-in-sv-inkludieren/</link>
       <pubDate>Tue, 12 Feb 2008 16:17:15 +0000</pubDate>
       
-      <guid>http://seric.at/2008/02/12/externals-in-sv-inkludieren/</guid>
+      <guid>http://blog.seric.at/2008/02/12/externals-in-sv-inkludieren/</guid>
       <description>&lt;p&gt;Weil wir gerade die Diskussion hatten wie man externe Repositories in das eigene Repository inkludieren kann, möchte ich dazu einige Zeilen tippen. Es manch manchmal durchaus externe Quellen wie zum für Beispiel eine Library oder Plugins und Themes in ein Projekt zu integrieren. Um dabei auch jeweils auf dem aktuellsten Stand zu bleiben, kann man mithilfe der SVN (&lt;a href=&#34;http://subversion.tigris.org&#34;&gt;Subversion&lt;/a&gt;) Eigenschaft &amp;#8220;&lt;code&gt;externals&lt;/code&gt;&amp;#8221; ein externes Repository angeben.&lt;/p&gt;
 
 &lt;p&gt;Dazu macht man folgendes:&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Die Türme von Hanoi in C</title>
-      <link>http://seric.at/2008/02/08/die-turme-von-hanoi-in-c/</link>
+      <link>http://blog.seric.at/2008/02/08/die-turme-von-hanoi-in-c/</link>
       <pubDate>Fri, 08 Feb 2008 11:19:46 +0000</pubDate>
       
-      <guid>http://seric.at/2008/02/08/die-turme-von-hanoi-in-c/</guid>
+      <guid>http://blog.seric.at/2008/02/08/die-turme-von-hanoi-in-c/</guid>
       <description>Ein beliebtes Beispiel für rekursives Programmieren ist das 1883 vom Mathematiker Eduard Lucas erfundene (Mathematik-)Denkspiel &amp;#8220;Die Türme von Hanoi&amp;#8220;.
 Das Spiel besteht darin, einen Stapel A von verschieden großen Scheiben, welche der Größe nach sortiert sind, auf einen Stapel C mithilfe eines &amp;#8220;Zwischenlager&amp;#8221;-Stapel B zu bewegen ohne dabei eine größere Scheibe auf eine kleinere Scheibe zu legen. Am Ende muss auf dem Stapel C die selbe geordnete Reihenfolge vorliegen, wie auf dem Ursprungs-Stapel A.</description>
     </item>

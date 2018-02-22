@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>University on Franziskus Domig</title>
-    <link>http://seric.at/tags/university/</link>
+    <link>http://blog.seric.at/tags/university/</link>
     <description>Recent content in University on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 19 Jul 2010 11:23:45 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/university/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/university/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automatic Anti-Pattern Corrections for PHP</title>
-      <link>http://seric.at/2010/07/19/automatic-anti-pattern-corrections-for-php/</link>
+      <link>http://blog.seric.at/2010/07/19/automatic-anti-pattern-corrections-for-php/</link>
       <pubDate>Mon, 19 Jul 2010 11:23:45 +0000</pubDate>
       
-      <guid>http://seric.at/2010/07/19/automatic-anti-pattern-corrections-for-php/</guid>
+      <guid>http://blog.seric.at/2010/07/19/automatic-anti-pattern-corrections-for-php/</guid>
       <description>&lt;p&gt;During my computer science studies at the Vorarlberg University of Applied Sciences I wrote my bachelor thesis about &amp;#8220;Automatic Anti-Pattern Corrections for PHP&amp;#8221;. As a fan of the open source philosophy, I want to share my work with others. I invite everyone to contribute to the great lex-pass project and this approach to better PHP software. Please share your thought and ideas on this with me and others by leaving a comment or sending me a message.&lt;/p&gt;</description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Franziskus Domig</title>
-    <link>http://seric.at/tags/video/</link>
+    <link>http://blog.seric.at/tags/video/</link>
     <description>Recent content in Video on Franziskus Domig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 02 Sep 2008 22:06:43 +0000</lastBuildDate>
     
-	<atom:link href="http://seric.at/tags/video/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.seric.at/tags/video/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LHC</title>
-      <link>http://seric.at/2008/09/02/lhc/</link>
+      <link>http://blog.seric.at/2008/09/02/lhc/</link>
       <pubDate>Tue, 02 Sep 2008 22:06:43 +0000</pubDate>
       
-      <guid>http://seric.at/2008/09/02/lhc/</guid>
+      <guid>http://blog.seric.at/2008/09/02/lhc/</guid>
       <description>Man kann ja vom LHC halten was man will, aber das ist genial: http://www.youtube.com/watch?v=j50ZssEojtM</description>
     </item>
     
     <item>
       <title>EAV</title>
-      <link>http://seric.at/2008/02/07/eav/</link>
+      <link>http://blog.seric.at/2008/02/07/eav/</link>
       <pubDate>Thu, 07 Feb 2008 10:58:55 +0000</pubDate>
       
-      <guid>http://seric.at/2008/02/07/eav/</guid>
+      <guid>http://blog.seric.at/2008/02/07/eav/</guid>
       <description>Längst in Vergessenheit geraten ist eine Band, deren Texte ich damals (als Kind) wohl noch nicht so verstanden habe. Nun habe ich durch Zufall (Danke an Luki) wieder einmal die alten &amp;#8220;Klassiker&amp;#8221; von der Ersten Allgemeinen Verunsicherung ausgegraben.</description>
     </item>
     
